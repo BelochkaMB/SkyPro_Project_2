@@ -74,4 +74,4 @@ print(sorted_ops)  # Операция с id: 2 будет первой
 - [ ] Написать юнит-тесты для модулей
 
 ## Команда проекта
-- [Ваше Имя / Никнейм](https://github.com) — Python Developer
+- [Никита / Audi R8](https://github.com) — Python Developer
